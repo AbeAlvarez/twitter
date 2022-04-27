@@ -1,0 +1,23 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Launch X practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbeAlvarez/twitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbeAlvarez/twitter/issues"
+  },
+  "homepage": "https://github.com/AbeAlvarez/twitter#readme",
+  "dependencies": {
+    "jest": "^28.0.2"
+  }
+}
